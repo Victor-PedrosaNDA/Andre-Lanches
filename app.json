@@ -20,6 +20,18 @@
         "backgroundColor": "#ffe18c"
       }
     },
-    "web": {}
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "b7163746-0f03-4319-be20-33a950c9b559"
+      }
+    },
+    "owner": "pedrosa404",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b7163746-0f03-4319-be20-33a950c9b559"
+    }
   }
 }
