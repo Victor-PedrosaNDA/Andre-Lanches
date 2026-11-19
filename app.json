@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "André Lanches",
+    "slug": "andre-lanches-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffe18c"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {}
+  }
+}
