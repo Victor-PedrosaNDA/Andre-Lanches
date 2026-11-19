@@ -120,7 +120,7 @@ export default function Contato() {
           <Text style={styles.infoTitulo}>Outras formas de contato</Text>
           <View style={styles.infoItem}>
             <Text style={styles.infoIcone}>📞</Text>
-            <Text style={styles.infoTexto}>(61) 99999-6368</Text>
+            <Text style={styles.infoTexto}>+55(61) 99999-6368</Text>
           </View>
           <View style={styles.infoItem}>
             <Text style={styles.infoIcone}>📍</Text>

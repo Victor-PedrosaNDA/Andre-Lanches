@@ -8,8 +8,7 @@ import {
   Linking,
   Alert,
 } from 'react-native';
-
-const TELEFONE = '619999996368';
+import { TELEFONE } from '../../constants';
 
 export default function EntregaFlutuante() {
   const handleLigar = () => {

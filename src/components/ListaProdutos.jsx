@@ -13,9 +13,9 @@ import {
   Alert,
 } from 'react-native';
 import BannerPromocao from './BannerPromocao';
+import { TELEFONE } from '../../constants';
 
 const { width: SCREEN_W } = Dimensions.get('window');
-const TELEFONE = '+55619999996368'; // Substitua pelo número de telefone real do seu estabelecimento
 
 const PRODUTOS = [
   {
